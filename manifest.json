@@ -1,0 +1,19 @@
+[
+  {
+    "guid": "e41ef0c4-c413-41ba-b4fa-8c565dc3c969",
+    "name": "Themerr",
+    "description": "Automatically add theme songs to movies using ThemerrDB",
+    "overview": "Automatically add theme songs to movies using ThemerrDB",
+    "owner": "LizardByte",
+    "category": "Metadata",
+    "versions": [
+      {
+        "version": "0.0.1.0",
+        "changelog": "see LizardByte/Themerr-jellyfin on GitHub",
+        "targetAbi": "10.8.0.0",
+        "sourceUrl": "https://github.com/LizardByte/Themerr-jellyfin/releases/download/v0.0.1/themerr-jellyfin.zip",
+        "timestamp": "2023-02-04T15:21:57Z"
+      },
+    ]
+  }
+]

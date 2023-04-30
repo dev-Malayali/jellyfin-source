@@ -6,6 +6,7 @@
     "overview": "Automatically add theme songs to movies using ThemerrDB",
     "owner": "LizardByte",
     "category": "Metadata",
+    "imageUrl": "https://github.com/dev-Malayali/jellyfin-source/blob/main/themerr-jellyfin.png?raw=true",
     "versions": [
       {
         "version": "0.0.1.0",
